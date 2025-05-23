@@ -19,6 +19,7 @@ const html = `<!DOCTYPE html>
   <body>
     <main>
     <h1>Melody Iuvo</h1>
+    <img src="https://cdn.nhcarrigan.com/new-avatars/melody-full.png" width="250" alt="Melody" />
     <section>
       <p>A task management bot for Discord!</p>
     </section>
