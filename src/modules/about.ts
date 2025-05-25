@@ -58,7 +58,7 @@ export const about = async(
       setURL("https://git.nhcarrigan.com/nhcarrigan/melody-iuvo");
     const subscribeButton = new ButtonBuilder().
       setStyle(ButtonStyle.Premium).
-      setSKUId("1338672773261951026");
+      setSKUId("1338755540397985873");
     const row = new ActionRowBuilder<ButtonBuilder>().addComponents(
       supportButton,
       sourceButton,
